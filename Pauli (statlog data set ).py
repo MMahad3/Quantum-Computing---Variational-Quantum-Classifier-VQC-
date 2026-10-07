@@ -1,3 +1,11 @@
+# Copyright (c) 2026 Muhammad Mahad Munir
+# SPDX-License-Identifier: MIT
+#
+# This license applies to the original code and comments contributed by
+# Muhammad Mahad Munir in this file. Third-party libraries, examples,
+# tutorials, and datasets remain subject to their respective terms.
+
+
 import numpy as np
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
 from sklearn.model_selection import train_test_split
